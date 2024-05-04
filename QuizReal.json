@@ -1,0 +1,26 @@
+[
+    {
+        "SpørsmålBilde": "Hva står RBG for?",
+        "svar": "Rød, Blå, Grønn"
+    },
+    {
+        "SpørsmålBilde": "Hva er den mest vanlige årsaken til at en video får dårlig oppløsning?",
+        "svar": "Lavkvalitetskamera"
+    },
+    {
+        "SpørsmålBilde": "Hva brukes til å analysere lyd?",
+        "svar": "Algoritmer"
+    },
+    {
+        "SpørsmålBilde": "Nevn tre ting som algoritmer brukes til:",
+        "svar": "Analysere, bearbeide og syntentisere lyd."
+    },
+    {
+        "SpørsmålBilde": "Hvilet er de tre beste videoredigeringsprogrammene, ifølge denne nettsiden?",
+        "svar": "Adobe Premier Pro, DaVinciResolve og Final Cut Pro X"
+    },
+    {
+        "SpørsmålBilde": "Hva er den beste piksler du kan se en video fra?",
+        "svar": "1080p"
+    }
+]
